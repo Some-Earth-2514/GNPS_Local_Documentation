@@ -1,0 +1,15 @@
+title: GNPS Local Documentation
+description: Local optimization of GNPS Feature-Based Molecular Networking.
+theme: just-the-docs
+
+# URL Settings
+url: "https://Some-Earth-2514.github.io"
+baseurl: "/GNPS_Local_Documentation"
+
+# Navigation Settings
+nav_enabled: true
+search_enabled: true
+heading_anchors: true
+
+# Color Scheme (System default)
+color_scheme: nil
