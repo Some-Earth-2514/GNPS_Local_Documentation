@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MacOS Setup
-parent: Installation
+parent: For Developers
 nav_order: 2
 ---
 

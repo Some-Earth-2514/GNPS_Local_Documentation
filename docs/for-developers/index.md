@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Installation
-nav_order: 3
+title: For Developers
+nav_order: 11
 has_children: true
 ---
 
-# Installation
+# For Developers
 Choose your platform below to get started with GNPS Local.

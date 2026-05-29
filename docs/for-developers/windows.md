@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Windows WSL2 Setup
-parent: Installation
+parent: For Developers
 nav_order: 1
 ---
 
